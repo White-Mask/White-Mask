@@ -10,12 +10,9 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-# 🧰Languages and Tools
+### 🧰Languages and Tools
+<p align="left">
 <!-- C -->
 <img src="img/c-original.svg" width="40">
 <!-- C++ -->
@@ -28,10 +25,11 @@
 <img src="img/git-original-wordmark.svg" width="50">
 <!-- Linux -->
 <img src="img/linux-original.svg" width="40">
-<!--
-# web icons https://devicon.dev/
+</p>
+
 
 <!--
+# web icons https://devicon.dev/
 **White-Mask/White-Mask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
