@@ -8,9 +8,10 @@
 
 ### 🔎Connect with me on these platforms
 <p align="left">
-    <a href="https://github.com/theblckcat"><img src="img/github-original.svg" width="40">Second profile</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://medium.com/@TheBlckCat"><img src="img/medium.svg" width="40">  Medium</a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/WHTMask_"><img src="img/twitter-original.svg" width="40">  Twitter</a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/theblckcat"><img src="img/github-original.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://medium.com/@TheBlckCat" ><img src="img/medium.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/WHTMask_"><img src="img/twitter-original.svg" width="40"></a>
+    <a href="https://www.kaggle.com/whtmask" style="top:-100" ><img src="img/kaggle-ar21.svg" width="100"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -33,7 +34,7 @@
 
 
 <!--
-# web icons https://devicon.dev/
+# web icons https://devicon.dev/ ; https://simpleicons.org/
 
 **White-Mask/White-Mask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
