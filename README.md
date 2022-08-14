@@ -10,26 +10,23 @@
 <p align="left">
     <a href="https://github.com/theblckcat"><img src="img/github-original.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@TheBlckCat" ><img src="img/medium.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/WHTMask_"><img src="img/twitter-original.svg" width="40"></a>
-    <a href="https://www.kaggle.com/whtmask" style="top:-100" ><img src="img/kaggle-ar21.svg" width="100"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/WHTMask_"><img src="img/twitter-original.svg" width="40"></a>&nbsp;
 </p>
 
 <br>
 
 ### 🧰Languages and Tools
 <p align="left">
-    <!-- C -->
-    <img src="img/c-original.svg" width="40">
-    <!-- C++ -->
-    <img src="img/cplusplus-original.svg" width="40">
-    <!-- Django -->
-    <img src="img/django-original.svg" width="40">
+    <!-- JavaScript -->
+    <img src="img/javascript-original.svg" width="40">
     <!-- Python -->
     <img src="img/python-original.svg" width="40">
     <!-- Git -->
     <img src="img/git-original-wordmark.svg" width="50">
     <!-- Linux -->
     <img src="img/linux-original.svg" width="40">
+    <!-- Docker -->
+    <img src="img/docker-original-wordmark.svg" width="40">
 </p>
 
 
