@@ -21,9 +21,6 @@ white_mask = Engineer()
 white_mask.presentation()
 ```
 
-- 🎓 A recent software engineering graduate from The University Unab.
-- 💻 I am currently working on my personal projects.
-
 <br>
 
 ### 🔎Connect with me on these platforms
