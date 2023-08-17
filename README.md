@@ -1,5 +1,26 @@
 ## Hi, I'm White-Mask 👋
 
+```
+class Engineer:
+
+    def __init__(self):
+        self.nickname = "White-Mask"
+        self.degree = "software engineering"
+        self.role = "backend software engineer"
+        self.favorite_programming_languages = ["Python", "Javascript"]
+
+
+    def presentation(self):
+        print(f"Hi, nickname is {self.nickname}.")
+        print(f"A recent {self.role} graduate from The University Unab.")
+        print(f"I currently work as a {self.role}.")
+        print(f"My favorite programming languages are the following: {', '.join(self.favorite_programming_languages)}")
+
+
+white_mask = Engineer()
+white_mask.presentation()
+```
+
 - 🎓 A recent software engineering graduate from The University Unab.
 - 💻 I am currently working on my personal projects.
 
