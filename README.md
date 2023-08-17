@@ -7,14 +7,14 @@ class Engineer:
         self.nickname = "White-Mask"
         self.degree = "software engineering"
         self.role = "backend software engineer"
-        self.favorite_programming_languages = ["Python", "Javascript"]
+        self.fav_prog_langs = ["Python", "Javascript"]
 
 
     def presentation(self):
         print(f"Hi, nickname is {self.nickname}.")
         print(f"A recent {self.role} graduate from The University Unab.")
         print(f"I currently work as a {self.role}.")
-        print(f"My favorite programming languages are the following: {', '.join(self.favorite_programming_languages)}")
+        print(f"My favorite programming languages are the following: {', '.join(self.fav_prog_langs)}")
 
 
 white_mask = Engineer()
