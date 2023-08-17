@@ -1,9 +1,8 @@
 ## Hi, I'm White-Mask 👋
----
-<img align ="right" src="img/white_mask_octocat.gif" width="250">
 
-- 😄 I’m a student of Ingenieria civil informatica. (Unab)
-- 🔭 I am currently working on my personal and university projects.
+- 🎓 A recent software engineering graduate from The University Unab.
+- 💻 I am currently working on my personal projects.
+
 <br>
 
 ### 🔎Connect with me on these platforms
