@@ -27,6 +27,7 @@ white_mask.presentation()
 <p align="left">
     <a href="https://github.com/theblckcat"><img src="img/github-original.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://medium.com/@TheBlckCat" ><img src="img/medium.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://dev.to/theblckcat" ><img src="https://www.svgrepo.com/show/349334/dev-to.svg" width="40"></a>&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/WHTMask_"><img src="img/twitter-original.svg" width="40"></a>&nbsp;
 </p>
 
