@@ -47,7 +47,10 @@ white_mask.presentation()
     <img src="img/docker-original-wordmark.svg" width="40">
 </p>
 
+<br>
+<br>
 
+[![An image of @whitemask's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whitemask)](https://holopin.io/@whitemask)
 <!--
 # web icons https://devicon.dev/ ; https://simpleicons.org/
 
